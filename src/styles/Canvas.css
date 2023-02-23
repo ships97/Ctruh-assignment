@@ -1,0 +1,76 @@
+.main{
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+#second{
+    /* border: 1px solid green; */
+    width: 280px;
+    height: 469px;
+    margin-left: 20px;
+}
+#color{
+    /* margin-top: 10px; */
+    margin-left: 10px;
+}
+#clr{
+    margin-left: px;
+}
+#number{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#input{
+    /* border: 1px solid black; */
+    height: 20px;
+    margin-left: 5px;
+    width: 55%;
+}
+#input1{
+    /* border: 1px solid black; */
+    height: 20px;
+    margin-left: 5px;
+}
+#plate{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#palatte{
+    margin-left: 5px;
+}
+#wd{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#ht{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+
+
+@media screen and (min-width: 200px) and (max-width: 600px) {
+    .main{
+        flex-direction: column;
+    }
+    /* #second{
+        width: 300px;
+    } */
+    /* #number{
+        width: 50%;
+    }
+    #color{
+        width: 50%;
+    }
+    #plate{
+        width: auto;
+    }
+    #ht{
+        width: auto;
+    }
+    #wd{
+        width: auto;
+    } */
+}
