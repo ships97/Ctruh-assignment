@@ -74,6 +74,8 @@ function Canvas() {
         // onMouseOver={handleCanvasMouseOver}
         />
         </div>
+
+        {/* Second div start */}
         <div id='second'>
         <div id='color'>
           <label>Color:</label>
