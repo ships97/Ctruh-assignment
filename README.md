@@ -2,7 +2,7 @@
 
 <h3>Deployed Link</h3>
 
-<a  href="https://ctruh-assignment-hr1ok78eu-ships97.vercel.app/">🔗 Canvas App </a>
+<a  href="https://ctruh-assignment-hr1ok78eu-ships97.vercel.app/">🔗 Live Link </a>
 
 
 ## Description
